@@ -16,6 +16,14 @@ Refer to my blog on ProteinELECTRA here: https://joseph-vineland.github.io/2022/
 * [NumPy](https://numpy.org/)
 * [scikit-learn](https://scikit-learn.org/stable/) and [SciPy](https://www.scipy.org/) (for computing some evaluation metrics).
 
+## Installation
+```
+git clone https://github.com/Joseph-Vineland/ProteinELECTRA.git
+cd ProteinELECTRA
+wget TAPE.tar.gz 
+tar -xzvf TAPE.tar.gz
+```
+
 ##  Quickstart: ProteinELECTRA & Tasks Assessing Protein Embeddings (TAPE)
 
 #### Pre-training
