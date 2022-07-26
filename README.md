@@ -20,7 +20,8 @@ Refer to my blog on ProteinELECTRA here: https://joseph-vineland.github.io/2022/
 ```
 git clone https://github.com/Joseph-Vineland/ProteinELECTRA.git
 cd ProteinELECTRA
-wget TAPE.tar.gz 
+pip install gdown
+gdown https://drive.google.com/uc?id=1oIdLozvULpLPtX6owSlJNDmJi-BRQXF7
 tar -xzvf TAPE.tar.gz
 ```
 
